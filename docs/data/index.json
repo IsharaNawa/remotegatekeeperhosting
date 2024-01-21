@@ -1,0 +1,47 @@
+{
+    "title": "Remote Gatekeeping System",
+    "team": [
+        {
+            "name": "Achintha Harshamal",
+            "email": "achinthafharshamal@gmail.com",
+            "eNumber": "E/17/090",
+            "github_profile":"https://github.com/AchinthaHarshamal",
+            "linkedin_profile":"https://www.linkedin.com/in/achintha-harshamal-ab7b6b1a5",
+            "website": "#"
+        },
+        {
+            "name": "Pubudu Bandara",
+            "email": "pubuducb@gmail.com",
+            "eNumber": "E/17/027",
+            "github_profile":"https://github.com/pubuducb",
+            "linkedin_profile":"https://www.linkedin.com/in/pubudu-bandara-592a381a8/",
+            "website": "#"
+        },
+        {
+            "name": "Ishara Nawarathna",
+            "email": "yc.ishara@gmail.com",
+            "eNumber": "E/17/219",
+            "github_profile":"https://github.com/IsharaNawarathna",
+            "linkedin_profile":"https://www.linkedin.com/in/ishara-nawarathna-4a88a11a7",
+            "website": "#"
+        }
+    ],
+    "supervisors": [
+        {
+            "name": "Dr. Isuru Nawinne",
+            "email": "isurunawinne@eng.pdn.ac.lk",
+            "linkedin_profile":"https://www.linkedin.com/in/isuru-nawinne-73302833/?originalSubdomain=lk",
+            "researchgate_profile":"https://www.researchgate.net/profile/Isuru-Nawinne",
+            "website": "#"
+        },
+        {
+            "name": "Dr. Mahanama Wickramasinghe",
+            "email": "mahanamaw@eng.pdn.ac.lk",
+            "linkedin_profile":"https://www.linkedin.com/in/mahanama",
+            "researchgate_profile":"#",
+            "website": "#"
+        }
+    ],
+    "tags": ["Web", "Embedded Systems"]
+
+}
